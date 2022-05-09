@@ -1,12 +1,3 @@
-## Hi there 👋
+La Fundación Ideas para la Paz es un centro de pensamiento y acción independiente que lleva más de 20 años aportando a la construcción de paz en Colombia. Lo hacemos a través de la incidencia en debates y políticas públicas, con soluciones innovadoras que promueven transformaciones territoriales, y acompañando a distintos actores, incluido el sector empresarial, a que contribuyan activamente a la paz, la seguridad y el desarrollo sostenible.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Para lograrlo, en la FIP aplicamos la fórmula: **comprender, crear y conectar.** Comprendemos las realidades de Colombia. Creamos soluciones que respondan a las necesidades de los territorios más afectados por la violencia, reconociendo las capacidades locales y fortaleciéndolas. Y conectamos a distintos actores, sus agendas e iniciativas, convencidos de que sumando ideas generamos cambios para la paz.
