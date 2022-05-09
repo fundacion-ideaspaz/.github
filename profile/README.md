@@ -1,5 +1,3 @@
 La Fundación Ideas para la Paz es un centro de pensamiento y acción independiente que lleva más de 20 años aportando a la construcción de paz en Colombia. Lo hacemos a través de la incidencia en debates y políticas públicas, con soluciones innovadoras que promueven transformaciones territoriales, y acompañando a distintos actores, incluido el sector empresarial, a que contribuyan activamente a la paz, la seguridad y el desarrollo sostenible. Para lograrlo, en la FIP aplicamos la fórmula: **comprender, crear y conectar.** 
 
-_Comprendemos_ las realidades de Colombia.
-_Creamos_ soluciones que respondan a las necesidades de los territorios más afectados por la violencia, reconociendo las capacidades locales y fortaleciéndolas. 
-Y _conectamos_ a distintos actores, sus agendas e iniciativas, convencidos de que sumando ideas generamos cambios para la paz.
+_Comprendemos_ las realidades de Colombia. _Creamos_ soluciones que respondan a las necesidades de los territorios más afectados por la violencia, reconociendo las capacidades locales y fortaleciéndolas. Y _conectamos_ a distintos actores, sus agendas e iniciativas, convencidos de que sumando ideas generamos cambios para la paz.
